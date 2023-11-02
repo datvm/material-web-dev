@@ -24,7 +24,8 @@
     "strict": true,
     "strictNullChecks": false,
     "target": "es2020",
-    "types": ["lit", "jasmine"]
+    "types": ["lit", "jasmine"],
+    "outDir": "catalog/dist/tsc/"
   },
   "exclude": [
     "catalog",
